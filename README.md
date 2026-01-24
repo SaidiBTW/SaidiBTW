@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Ian Sawala 👋
 
-<!--
-**SaidiBTW/SaidiBTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | 10x Developer | Cloud Architect
 
-Here are some ideas to get you started:
+I am a dynamic and results-driven Technical Engineer passionate about building high-performance systems and creating intuitive user experiences. I specialize in full-stack development, cloud architecture, and data engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Languages Java Go Rust Dart TypeScript
+
+Frameworks & Runtime NestJS Flutter Next JS NodeJS
+
+Data & Streaming Postgres Neo4j Redis Apache Kafka
+
+Cloud & DevOps AWS Azure Docker
+
+🔭 Featured Projects
+
+Pacaya Mobile App: A cross-platform social media app featuring elastic search clusters, NestJS micro-services for CDC event processing, and AI-powered liveliness checks.
+LLM-Powered Events Generator: An Azure-deployed solution utilizing Azure OpenAI and Cosmos DB for scalable event generation and authentication.
+Kafka Connect Replication: A robust data pipeline replicating PostgreSQL to Neo4j with custom SMTs for semantic relationship mapping.
+📫 Connect with me
+
+LinkedIn
+Portfolio
+Email
