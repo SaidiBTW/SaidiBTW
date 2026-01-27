@@ -47,4 +47,5 @@ I am a dynamic and results-driven Technical Engineer passionate about building h
 ### 📫 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/ian-sawala-7651ab22a)
+- [Portfolio](https://iansawala.me)
 - [Email](mailto:iansawalasaidi@gmail.com)
