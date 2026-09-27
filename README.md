@@ -1,8 +1,4 @@
-# Hi there, I'm Ian Sawala 👋
-
-### 🚀 Software Engineer
-
-I am a dynamic and results-driven Technical Engineer passionate about building high-performance systems and creating intuitive user experiences. I specialize in full-stack development, cloud architecture, and data engineering.
+## 🚀 Software Engineer
 
 ---
 
